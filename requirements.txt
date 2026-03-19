@@ -1,0 +1,7 @@
+
+playwright
+opencv-python
+pillow
+numpy
+python-dotenv   # opcional, para .env
+

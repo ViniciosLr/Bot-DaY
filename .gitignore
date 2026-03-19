@@ -1,0 +1,12 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+quotex_bot.db
+*.db
+screenshots/
+logs/
+data/
+
